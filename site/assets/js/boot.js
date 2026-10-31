@@ -1,0 +1,1 @@
+(function(d){var h=d.documentElement;h.classList.remove('no-js');h.classList.add('js');try{if(sessionStorage.getItem('mgf-pt')){h.classList.add('pt-enter');sessionStorage.removeItem('mgf-pt');}}catch(e){}setTimeout(function(){h.classList.add('ready');},2500);})(document);
